@@ -7,7 +7,7 @@ package datospersonales;
 
 /**
  *
- * @author ufg
+ * 
  */
 public class Datospersonales {
 
